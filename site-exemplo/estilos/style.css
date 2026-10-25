@@ -20,6 +20,10 @@ h1 {
     color: rgb(58, 0 , 122);
 }
 
+h1 a {
+    font-size: inherit;
+}
+
 h2 {
     font-size: 1.5em;
     color: rgb(58, 0 , 122);
